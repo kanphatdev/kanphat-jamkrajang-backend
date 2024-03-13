@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "achievement_stores",
+  "info": {
+    "singularName": "achievement-store",
+    "pluralName": "achievement-stores",
+    "displayName": "achievement_store",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "achieve_title": {
+      "type": "string"
+    },
+    "achieve_demo": {
+      "type": "string"
+    },
+    "achieve_repo": {
+      "type": "string"
+    }
+  }
+}

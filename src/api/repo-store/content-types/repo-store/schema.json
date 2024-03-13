@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "repo_stores",
+  "info": {
+    "singularName": "repo-store",
+    "pluralName": "repo-stores",
+    "displayName": "repo_store",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "repo_title": {
+      "type": "string"
+    },
+    "repo_link": {
+      "type": "string"
+    }
+  }
+}
